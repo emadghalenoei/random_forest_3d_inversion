@@ -1,0 +1,36 @@
+CX: 64
+CY: 64
+CZ: 64
+Dec: 0.0
+Fe: 43314
+Inc: 1.570796326795
+Kmax: 50
+Kmin: 6
+NKEEP: 50
+Ndatapoints: 32
+Nmodels: 1000000
+Pad_Length: 5000
+Z0: 0
+ZEND: 10000
+gravity_data_path: field_data/GRV_2D_Data.txt
+gravity_data_std: 0.2
+max_num_training_model: 10000
+rho_base:
+- 0.4
+rho_salt:
+- -0.13
+rho_sed:
+- 0.0
+rtp_data_path: field_data/RTP_2D_Data.txt
+rtp_data_std: 1.0
+training_data: training_data
+k_list:
+- 3 
+- 9
+- 15
+- 21
+- 27
+- 33
+- 39
+- 45
+- 51
