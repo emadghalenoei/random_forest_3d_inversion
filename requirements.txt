@@ -1,0 +1,9 @@
+scipy
+PyWavelets
+faiss-cpu
+tqdm
+PyYAML
+imbalanced-learn
+scikit-learn
+joblib
+matplotlib
