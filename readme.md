@@ -244,6 +244,15 @@ The pipeline generates:
 - **Visualizations**: Confusion matrices, reliability diagrams, 3D models
 - **Predictions**: Density/susceptibility models in `output/`
 
+## 📚 Citation
+
+If you use this code or dataset, please cite:
+
+Ghalenoei, E. (2024). *random_forest_3d_inversion* [Software]. Zenodo. https://doi.org/10.5281/zenodo.19838635
+
+The code repository is also available at:
+https://github.com/emadghalenoei/random_forest_3d_inversion
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
